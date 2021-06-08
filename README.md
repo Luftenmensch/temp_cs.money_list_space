@@ -1,5 +1,5 @@
-# temp_cs.money_list_space
-Just as small repo to contain some lists for cs.money bot 
+## Когда можно будет отказать от этого костыля?
+Как только я подниму готовый сайт, а будет это в июне - июле. Более точных дат не могу назвать, тк есть штуки более приоритетные.
 
 ## Examples
 
