@@ -6,9 +6,10 @@ Just as small repo to contain some lists for cs.money bot
 ### Stickers list
 Список стикеров можно заполнить в файле stickers.js
 Каждый стикер в новой строчке с запятой на конце, без пробелов:
+```
 Sticker | Team Dignitas (Holo) | Cologne 2014,
 Sticker | iBUYPOWER (Holo) | Cologne 2014,
-
+```
 ### List
 Пока что, формат списка будет достаточно строгим, нужно будет соблюдать такой формат.
 Его можно заполнить в файле list.js
