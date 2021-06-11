@@ -11,6 +11,6 @@
       "price":10000,
       "minFloat":0.15,
       "maxFloat":1,
-      "accept":"true;"
+      "accept":true
    }
 ]
