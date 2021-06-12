@@ -1,16 +1,318 @@
 [
    {
-      "name":"AK-47 | Redline (Field-Tested)",
-      "price":25,
-      "minFloat":1,
-      "maxFloat":2,
-      "accept":false
+      "name":"M4A4 | Zirka (Well-Worn)",
+      "price":18.98,
+      "minFloat":0.38,
+      "maxFloat":0.45,
+      "accept":true 
    },
    {
-      "name":"AK-47 | Redline (Field-Tested)",
-      "price":25,
-      "minFloat":1,
-      "maxFloat":2,
-      "accept":false
+      "name":"Galil AR | Dusk Ruins (Factory New)",
+      "price":25.71,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A4 | Zirka (Factory New)",
+      "price":34.17,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AUG | Flame Jörmungandr (Factory New)",
+      "price":208.00,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Fuel Injector (Factory New)",
+      "price":341.41,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"Desert Eagle | Night Heist (Minimal Wear)",
+      "price":15.51,
+      "minFloat":0.07,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"AUG | Carved Jade (Factory New)",
+      "price":14.05,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A4 | Global Offensive (Factory New)",
+      "price":12.41,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AWP | Medusa (Field-Tested)",
+      "price":2445.69,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"StatTrak™ AWP | Oni Taiji (Factory New)",
+      "price":982.44,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"SSG 08 | Sea Calico (Factory New)",
+      "price":183.07,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"★ Moto Gloves | Spearmint (Field-Tested)",
+      "price":1599.23,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"M4A1-S | Atomic Alloy (Factory New)",
+      "price":37.93,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AWP | Dragon Lore (Well-Worn)",
+      "price":37.93,
+      "minFloat":0.38,
+      "maxFloat":0.45,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Hydroponic (Field-Tested)",
+      "price":500,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"★ Karambit | Crimson Web (Minimal Wear)",
+      "price":1199.99,
+      "minFloat":0.07,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"Desert Eagle | Sunset Storm 弐 (Factory New)",
+      "price":220,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AWP | BOOM (Factory New)",
+      "price":260,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"P90 | Astral Jörmungandr (Minimal Wear)",
+      "price":164.47,
+      "minFloat":0.07,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"Dual Berettas | Cobra Strike (Factory New)",
+      "price":50,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Wild Lotus (Battle-Scarred)",
+      "price":1600,
+      "minFloat":0.45,
+      "maxFloat":1,
+      "accept":true
+   },
+   {
+      "name":"Desert Eagle | Night Heist (Factory New)",
+      "price":18,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"MP9 | Pandora's Box (Factory New)",
+      "price":70,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"StatTrak™ AWP | Oni Taiji (Battle-Scarred)",
+      "price":200.42,
+      "minFloat":0.45,
+      "maxFloat":1,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Hydroponic (Minimal Wear)",
+      "price":860,
+      "minFloat":0.06,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"Negev | Mjölnir (Field-Tested)",
+      "price":900,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"AWP | Gungnir (Field-Tested)",
+      "price":8000,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Jaguar (Factory New)",
+      "price":135,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"★ Sport Gloves | Pandora's Box (Field-Tested)",
+      "price":3760.61,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"M4A4 | Zirka (Minimal Wear)",
+      "price":18.85,
+      "minFloat":0.06,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"★ StatTrak™ Karambit | Fade (Factory New)",
+      "price":1800,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"Glock-18 | Synth Leaf (Factory New)",
+      "price":200,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"★ Butterfly Knife | Doppler Sapphire (Factory New)",
+      "price":19000,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"★ Sport Gloves | Vice (Minimal Wear)",
+      "price":5700,
+      "minFloat":0.06,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"Desert Eagle | Emerald Jörmungandr (Factory New)",
+      "price":280,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A1-S | Icarus Fell (Factory New)",
+      "price":250,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A4 | Poseidon (Minimal Wear)",
+      "price":1500,
+      "minFloat":0.06,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"★ M9 Bayonet | Doppler Sapphire (Factory New)",
+      "price":13000,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A4 | Poseidon (Factory New)",
+      "price":2200,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AWP | Dragon Lore (Field-Tested)",
+      "price":6000,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Black Laminate (Factory New)",
+      "price":110.63,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"M4A1-S | Icarus Fell (Minimal Wear)",
+      "price":230,
+      "minFloat":0.06,
+      "maxFloat":0.15,
+      "accept":true
+   },
+   {
+      "name":"AWP | Snake Camo (Field-Tested)",
+      "price":68.8,
+      "minFloat":0.15,
+      "maxFloat":0.38,
+      "accept":true
+   },
+   {
+      "name":"AWP | The Prince (Factory New)",
+      "price":6000,
+      "minFloat":0.0000001,
+      "maxFloat":0.06,
+      "accept":true
+   },
+   {
+      "name":"AK-47 | Wild Lotus (Well-Worn)",
+      "price":2163.67,
+      "minFloat":0.38,
+      "maxFloat":0.45,
+      "accept":true
    }
+   
 ]
