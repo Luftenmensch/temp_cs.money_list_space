@@ -2,15 +2,15 @@
    {
       "name":"AK-47 | Redline (Field-Tested)",
       "price":25,
-      "minFloat":0.15,
-      "maxFloat":0.4,
+      "minFloat":1,
+      "maxFloat":2,
       "accept":false
    },
    {
       "name":"AK-47 | Redline (Field-Tested)",
       "price":25,
-      "minFloat":0.15,
-      "maxFloat":1,
+      "minFloat":1,
+      "maxFloat":2,
       "accept":false
    }
 ]
