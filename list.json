@@ -8,7 +8,7 @@
    },
    {
       "name":"AK-47 | Redline (Field-Tested)",
-      "price":10000,
+      "price":1000,
       "minFloat":0.15,
       "maxFloat":1,
       "accept":false
