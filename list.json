@@ -1,11 +1,4 @@
 [
-      {
-      "name":"AK-47 | Redline (Field-Tested)",
-      "price":10000,
-      "minFloat":0.15,
-      "maxFloat":1,
-      "accept":false
-   },
    {
       "name":"M4A4 | Zirka (Well-Worn)",
       "price":18.98,
