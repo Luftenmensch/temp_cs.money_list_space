@@ -1,17 +1,12 @@
-[
-   {
-      "name":"M4A1-S | Briefing (Minimal Wear)",
-      "price":2.33,
-      "minFloat":0.07,
-      "maxFloat":0.15,
-      "accept":true
-   },
-   {
-      "name":"MP7 | Bloodsport (Field-Tested)",
-      "price":2.65,
-      "minFloat":0.15,
-      "maxFloat":0.38,
-      "accept":true
-   }
-   
-]
+M4A4 | In Living Color (Factory New),
+USP-S | The Traitor (Factory New),
+USP-S | Target Acquired (Factory New),
+Glock-18 | Franklin (Minimal Wear),
+UMP-45 | Day Lily (Minimal Wear),
+StatTrak™ MP9 | Food Chain (Minimal Wear),
+M4A4 | In Living Color (Battle-Scarred),
+Desert Eagle | Trigger Discipline (Field-Tested),
+StatTrak™ MAC-10 | Button Masher (Minimal Wear),
+SCAR-20 | Storm (Minimal Wear),
+P90 | Storm (Battle-Scarred),
+StatTrak™ Glock-18 | Clear Polymer (Field-Tested)
